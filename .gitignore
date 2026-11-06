@@ -1,0 +1,4 @@
+# Solo se publica la página y sus imágenes. El catálogo tiene precios: no subirlo.
+*.pdf
+/92289e76-8853-48d0-b023-d2dc0324b0c7.jpg
+.claude/
